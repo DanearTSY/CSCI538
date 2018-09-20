@@ -1,1 +1,42 @@
-.vs
+/.vs/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Pp]rojectSettings/ProjectVersion.txt
+/.idea/
+
+ExportedObj/
+.consulo/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.log
+*.cache
+*.swp
+
+*.pidb.meta
+sysinfo.txt
+
+*.apk
+*.unitypackage
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
