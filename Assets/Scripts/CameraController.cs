@@ -13,7 +13,7 @@ public class CameraController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         camera = GetComponentInChildren<Camera>();
-        items = new List<string>();
+        items = new List<string>(); 
 	}
 	
 	// Update is called once per frame

@@ -1,1 +1,7 @@
 .vs
+/Library/
+/obj/
+/Packages/
+EscapeGame.sln
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
