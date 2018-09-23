@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{A0C9166A-B649-28D9-5932-21B17CAE91AC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
