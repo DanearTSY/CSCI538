@@ -1,6 +1,0 @@
-You can import a model in 3D Studio Max with customized materials for Corona.
-
-1. Unzip all files from the archive PB170_Sneaker_Low.zip into one folder.
-(Note that PB170_Sneaker_Low.obj file and PB170_Sneaker_Low_max.fbx must be in the same folder.)
-2. Make sure currently selected render is Corona.
-3. Import PB170_Sneaker_Low_max.fbx into your project.

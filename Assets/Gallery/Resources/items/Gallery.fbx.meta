@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 9a0c64d36b5f9e34cb91b46800946a81
+timeCreated: 1434783700
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Art_center
+    100002: Art_logo
+    100004: Bush_03
+    100006: Center
+    100008: Draw
+    100010: Floor
+    100012: floor
+    100014: //RootNode
+    100016: Obj_all
+    100018: Plant1
+    100020: Plant2
+    100022: Plant3
+    100024: Plant4
+    100026: Plant5
+    100028: Plant6
+    100030: Plant7
+    100032: Plant8
+    100034: Plants
+    100036: teng01
+    100038: teng02
+    100040: Top
+    100042: tree
+    100044: Wall
+    100046: water_BB
+    400000: Art_center
+    400002: Art_logo
+    400004: Bush_03
+    400006: Center
+    400008: Draw
+    400010: Floor
+    400012: floor
+    400014: //RootNode
+    400016: Obj_all
+    400018: Plant1
+    400020: Plant2
+    400022: Plant3
+    400024: Plant4
+    400026: Plant5
+    400028: Plant6
+    400030: Plant7
+    400032: Plant8
+    400034: Plants
+    400036: teng01
+    400038: teng02
+    400040: Top
+    400042: tree
+    400044: Wall
+    400046: water_BB
+    2300000: Art_center
+    2300002: Art_logo
+    2300004: Bush_03
+    2300006: Center
+    2300008: Draw
+    2300010: Floor
+    2300012: floor
+    2300014: Obj_all
+    2300016: Plant1
+    2300018: Plant2
+    2300020: Plant3
+    2300022: Plant4
+    2300024: Plant5
+    2300026: Plant6
+    2300028: Plant7
+    2300030: Plant8
+    2300032: teng01
+    2300034: teng02
+    2300036: Top
+    2300038: tree
+    2300040: Wall
+    2300042: water_BB
+    3300000: Art_center
+    3300002: Art_logo
+    3300004: Bush_03
+    3300006: Center
+    3300008: Draw
+    3300010: Floor
+    3300012: floor
+    3300014: Obj_all
+    3300016: Plant1
+    3300018: Plant2
+    3300020: Plant3
+    3300022: Plant4
+    3300024: Plant5
+    3300026: Plant6
+    3300028: Plant7
+    3300030: Plant8
+    3300032: teng01
+    3300034: teng02
+    3300036: Top
+    3300038: tree
+    3300040: Wall
+    3300042: water_BB
+    4300000: Center
+    4300002: Wall
+    4300004: Floor
+    4300006: floor
+    4300008: Plant1
+    4300010: Plant2
+    4300012: Plant3
+    4300014: Plant4
+    4300016: Plant5
+    4300018: Plant6
+    4300020: Plant7
+    4300022: Plant8
+    4300024: water_BB
+    4300026: Bush_03
+    4300028: teng01
+    4300030: tree
+    4300032: teng02
+    4300034: Draw
+    4300036: Top
+    4300038: Art_center
+    4300040: Obj_all
+    4300042: Art_logo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
